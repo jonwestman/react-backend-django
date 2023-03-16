@@ -1,0 +1,12 @@
+
+
+python3 -m venv python3 -m venv /path/to/new/virtual/environment
+
+C:\Users\admin\Desktop\CalebCurryVideos\backend
+
+Activate virtual environment while standing in folder:
+.venv\Source\activate\Scripts\activate
+
+then type:
+
+python manage.py runserver
